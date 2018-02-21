@@ -25,10 +25,7 @@ namespace ConsoleApplication3
             {
                 pvp.HvH();
             }
-
-
-            //pve.HvC();
-            //pvp.HvH();
+        
         }
     }
 }
